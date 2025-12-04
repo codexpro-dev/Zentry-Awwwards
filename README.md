@@ -1,16 +1,49 @@
-# React + Vite
+🌀 Zentry Awwwards Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-fidelity, animated, and immersive front-end clone inspired by the award-winning Zentry website.
+This project recreates its motion design, smooth transitions, 3D interactions, and modern UI aesthetics for learning and portfolio purposes.
 
-Currently, two official plugins are available:
+🔗 Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Experience the live demo here:
+👉 [https://zentry-awwwards.netlify.app/](https://zentry-awwwards.netlify.app/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Features
+🎬 Smooth Animations
 
-## Expanding the ESLint configuration
+Page transitions and micro-interactions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Scroll-based animations
+
+Parallax effects
+
+Fluid motion similar to Awwwards-level websites
+
+🧊 3D & Visual Effects
+
+Hover-responsive 3D elements
+
+Cinematic camera movements
+
+🎨 Modern UI / UX
+
+Futuristic typography
+
+Soft gradients and subtle glows
+
+Clean, minimal layout
+
+📱 Fully Responsive
+
+Optimized for desktop, tablet, and mobile screens.
+
+🛠️ Tech Stack
+
+Framework: React
+
+Styling: Tailwind CSS
+
+Animations: GSAP 
+
+Build Tool: Vite / Webpack
